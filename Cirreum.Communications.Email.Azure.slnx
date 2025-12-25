@@ -16,6 +16,9 @@
     <Project Path="src/Cirreum.Communications.Email.Azure/Cirreum.Communications.Email.Azure.csproj" />
   </Folder>
   <Folder Name="/_solution items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
     <File Path="CLAUDE.md" />
     <File Path="global.json" />
     <File Path="LICENSE" />
