@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<RootNamespace>Cirreum.Communications.Email</RootNamespace>
+		<Description>The Cirreum Email Library for Azure Communication Services.</Description>
+		<PackageTags>cirreum;communications;email;azure;acs</PackageTags>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Azure.Communication.Email" Version="1.1.0" />
+		<PackageReference Include="Azure.Identity" Version="1.14.1" />
+		<PackageReference Include="Cirreum.Communications.Email" Version="1.0.108" />
+		<PackageReference Include="Cirreum.ServiceProvider" Version="1.0.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Azure.Communication.Email" />
+		<Using Include="Azure.Identity" />
+	</ItemGroup>
+
+</Project>

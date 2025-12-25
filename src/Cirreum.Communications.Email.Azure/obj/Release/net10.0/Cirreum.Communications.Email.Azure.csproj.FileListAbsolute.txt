@@ -1,0 +1,14 @@
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\bin\Release\net10.0\Cirreum.Communications.Email.Azure.deps.json
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\bin\Release\net10.0\Cirreum.Communications.Email.Azure.dll
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\bin\Release\net10.0\Cirreum.Communications.Email.Azure.pdb
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\bin\Release\net10.0\Cirreum.Communications.Email.Azure.xml
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.csproj.AssemblyReference.cache
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.AssemblyInfoInputs.cache
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.AssemblyInfo.cs
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.csproj.CoreCompileInputs.cache
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.dll
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\refint\Cirreum.Communications.Email.Azure.dll
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.xml
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\Cirreum.Communications.Email.Azure.pdb
+C:\Cirreum\Infrastructure\Cirreum.Communications.Email.Azure\src\Cirreum.Communications.Email.Azure\obj\Release\net10.0\ref\Cirreum.Communications.Email.Azure.dll
