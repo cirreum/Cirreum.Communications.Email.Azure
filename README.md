@@ -1,5 +1,11 @@
 # Cirreum.Communications.Email.Azure
 
+[![NuGet Version](https://img.shields.io/nuget/v/Cirreum.Communications.Email.Azure.svg?style=flat-square&labelColor=1F1F1F&color=003D8F)](https://www.nuget.org/packages/Cirreum.Communications.Email.Azure/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Cirreum.Communications.Email.Azure.svg?style=flat-square&labelColor=1F1F1F&color=003D8F)](https://www.nuget.org/packages/Cirreum.Communications.Email.Azure/)
+[![GitHub Release](https://img.shields.io/github/v/release/cirreum/Cirreum.Communications.Email.Azure?style=flat-square&labelColor=1F1F1F&color=FF3B2E)](https://github.com/cirreum/Cirreum.Communications.Email.Azure/releases)
+[![License](https://img.shields.io/github/license/cirreum/Cirreum.Communications.Email.Azure?style=flat-square&labelColor=1F1F1F&color=F2F2F2)](https://github.com/cirreum/Cirreum.Communications.Email.Azure/blob/main/LICENSE)
+[![.NET](https://img.shields.io/badge/.NET-10.0-003D8F?style=flat-square&labelColor=1F1F1F)](https://dotnet.microsoft.com/)
+
 Azure Communication Services email functionality for the Cirreum communications framework. This implementation follows the Cirreum provider pattern, enabling seamless switching between email providers (SendGrid, Azure Communication Services, etc.) without code changes.
 
 ## Features
