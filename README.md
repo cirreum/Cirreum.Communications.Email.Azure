@@ -49,7 +49,7 @@ builder.AddServiceProvider<AzureEmailRegistrar>();
 ```json
 {
   "EmailProviders": {
-    "Azure": {
+    "Email.Azure": {
       "Instances": {
         "primary": {
           "Name": "production",
