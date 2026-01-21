@@ -9,8 +9,8 @@
 	<ItemGroup>
 		<PackageReference Include="Azure.Communication.Email" Version="1.1.0" />
 		<PackageReference Include="Azure.Identity" Version="1.17.1" />
-		<PackageReference Include="Cirreum.Communications.Email" Version="1.0.108" />
-		<PackageReference Include="Cirreum.ServiceProvider" Version="1.0.5" />
+		<PackageReference Include="Cirreum.Communications.Email" Version="1.0.109" />
+		<PackageReference Include="Cirreum.ServiceProvider" Version="1.0.6" />
 	</ItemGroup>
 
 	<ItemGroup>
