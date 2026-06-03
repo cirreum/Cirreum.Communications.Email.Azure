@@ -202,9 +202,9 @@ Health checks automatically register when using the configuration-based approach
 - **Multi-Tenant**: Different providers per tenant or environment
 - **Gradual Migration**: Migrate from one provider to another without code changes
 
-## Integration with Layer 5 Runtime Extensions
+## Integration with the Runtime Extensions
 
-This provider integrates seamlessly with Cirreum's Layer 5 communications extensions:
+This provider integrates seamlessly with Cirreum's communications runtime extensions:
 
 ```csharp
 // Single registration for all communication providers
