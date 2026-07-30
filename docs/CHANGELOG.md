@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **Configurable credentials for identity-based authentication** via the nested `Credential` block
+  from `Cirreum.ServiceProvider` 1.1.0 (`Mode`: `Default` / `ManagedIdentity` / `Developer`, plus
+  optional `IdentityId` selecting a user-assigned managed identity). The endpoint path
+  previously hardcoded `new DefaultAzureCredential()` with no options — no tenant pinning, no
+  identity selection.
+- `Identifier` on the instance settings resolves as the Entra tenant, forwarded to every
+  tenant-aware credential.
+- A `Credential` block alongside a key-based connection string fails at startup with
+  `InvalidOperationException` — identity configuration cannot apply to key authentication.
+- An unrecognized `CredentialMode` value fails at startup instead of silently degrading to the
+  default chain.
+
+### Updated
+
+- Updated NuGet packages.
+
 ## [1.0.20] - 2026-07-20
 
 ### Updated
